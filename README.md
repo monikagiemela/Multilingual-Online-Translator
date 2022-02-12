@@ -1,4 +1,4 @@
-### **Multilingual-Online-Translator**
+### **Multilingual Online Translator**
 
 A console-based translator.
 
